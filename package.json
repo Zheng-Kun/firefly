@@ -44,7 +44,7 @@
     "json2csv": "^4.5.4",
     "md5": "^2.2.1",
     "moment": "^2.24.0",
-    "mongoose": "^4.1.8",
+    "mongoose": "^4.13.21",
     "multer": "^1.4.1",
     "nanobar": "^0.4.2",
     "progress-stream": "^2.0.0",
